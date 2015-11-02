@@ -47,7 +47,7 @@
 
     <!-- Temasek Extra Info -->
     <string name="temaextrainfo">Weitere Informationen</string>
-    <string name="temaextrainfo_summary">Weitere Informationen für cpu, display, etc zeigen</string>
+    <string name="temaextrainfo_summary">Weitere Informationen für Cpu, Display usw. zeigen</string>
 
     <!-- Viper4Android -->
     <string name="viper_title">Viper4Android</string>
@@ -56,7 +56,7 @@
     <string name="supersu_title">SuperSU</string>
 
     <!-- OTA update -->
-    <string name="ota_title">OTA update</string>
+    <string name="ota_title">OTA Update</string>
 
     <!-- long press back to kill configurable timeout -->
     <string name="kill_app_longpress_timeout_title">Zeitlimit für langen Klick</string>
@@ -81,11 +81,11 @@
     <string name="shortcut_action_screenshot">Screenshot</string>
     <string name="shortcut_action_menu">Menü</string>
     <string name="shortcut_action_ime">IME Switcher öffnen</string>
-    <string name="shortcut_action_power_menu">Power Menü</string>
+    <string name="shortcut_action_power_menu">Power-Menü</string>
     <string name="shortcut_action_recent">Anwendungsverlauf</string>
     <string name="shortcut_action_restartui">SystemUI neustarten</string>
     <string name="shortcut_action_power">Bildschirm aus</string>
-    <string name="shortcut_action_search">In app suchen</string>
+    <string name="shortcut_action_search">In App suchen</string>
     <string name="shortcut_action_ring_vib">Klingeln/Vib</string>
     <string name="shortcut_action_ring_silent">Klingeln/Still</string>
     <string name="shortcut_action_ring_vib_silent">Klingeln/Vib/Still</string>
@@ -105,7 +105,7 @@
     <string name="shortcut_action_max">Maximale Anzahl Einträge erreicht</string>
     <string name="shortcut_action_warning">Warnung</string>
     <string name="shortcut_action_warning_message">Letzter Eintrag kann nicht gelöscht werden</string>
-    <string name="shortcut_action_disable_message">Deaktiviert\nZum aktivieren neuen Eintrag hinzufügen</string>
+    <string name="shortcut_action_disable_message">Deaktiviert\nZum Aktivieren neuen Eintrag hinzufügen</string>
     <string name="shortcut_image_not_valid">Gewählte App hat kein gültiges Icon zurückgegeben. Andere App benutzen.</string>
     <string name="shortcut_duplicate_entry">Gewählte Aktion kann nur einmal hinzugefügt werden.</string>
     <string name="shortcut_action_help_shortcut">Shortcut</string>
@@ -379,7 +379,7 @@
     <string name="smart_pulldown_title">Smartes Pulldown Menü</string>
     <string name="smart_pulldown_summary">Schnelleinstellungen öffnen wenn %1$s Benachrichtigungen vorhanden sind</string>
     <string name="smart_pulldown_off">Aus</string>
-    <string name="smart_pulldown_dismissable">Nicht schliessbar</string>
+    <string name="smart_pulldown_dismissable">Nicht schließbar</string>
     <string name="smart_pulldown_persistent">Nicht persistent</string>
     <string name="smart_pulldown_all">Nicht schliessbar oder nicht persistent.</string>
 
@@ -441,7 +441,7 @@
     <string name="profile_applist_title">Applikationen</string>
 
     <!-- Gesture Anywhere floating mode-->
-    <string name="gesture_anywhere_floating">Gesture Anywhere</string>
+    <string name="gesture_anywhere_floating">Überall-Gesten</string>
     <string name="gesture_anywhere_floating_summary">Shortcuts im Float Modus starten</string>
 
     <!-- App Circle sidebar -->
@@ -1127,46 +1127,46 @@
     <string name="dim_nav_buttons_touch_anywhere_summary_off">Only touches on the navbar will cause buttons to un-dim</string>
 
     <!-- Status bar temperature -->
-    <string name="status_bar_temperature_title">Weather temperature</string>
-    <string name="status_bar_temperature_hidden">Hidden</string>
-    <string name="status_bar_temperature_show_scale">Shown with scale</string>
-    <string name="status_bar_temperature_hide_scale">Shown without scale</string>
-    <string name="status_bar_temperature_location_title">Placement</string>
-    <string name="status_bar_temperature_location_summary">Select where the weather temperature is shown on the statusbar</string>
-    <string name="status_bar_temperature_location_right">Show on right</string>
-    <string name="status_bar_temperature_location_left">Show on left</string>
-    <string name="status_bar_weather_color_title">Temperature color</string>
-    <string name="status_bar_weather_size_title">Font size</string>
-    <string name="status_bar_weather_font_style_title">Font</string>
+    <string name="status_bar_temperature_title">Wetter Temperatur</string>
+    <string name="status_bar_temperature_hidden">Verborgen</string>
+    <string name="status_bar_temperature_show_scale">Mit Skala anzeigen</string>
+    <string name="status_bar_temperature_hide_scale">Ohne Skala anzeigen</string>
+    <string name="status_bar_temperature_location_title">Platzierung</string>
+    <string name="status_bar_temperature_location_summary">Auswählen, wo die Wetter-Temperatur in der Statuszeile angezeigt wird</string>
+    <string name="status_bar_temperature_location_right">Rechts anzeigen</string>
+    <string name="status_bar_temperature_location_left">Links anzeigen</string>
+    <string name="status_bar_weather_color_title">Temperatur-Farbe</string>
+    <string name="status_bar_weather_size_title">Schriftgröße</string>
+    <string name="status_bar_weather_font_style_title">Schriftart</string>
     <string name="status_bar_weather_font_normal">Normal</string>
-    <string name="status_bar_weather_font_italic">Italic</string>
-    <string name="status_bar_weather_font_bold">Bold</string>
-    <string name="status_bar_weather_font_bold_italic">Bold Italic</string>
-    <string name="status_bar_weather_font_light">Light</string>
-    <string name="status_bar_weather_font_light_italic">Light Italic</string>
-    <string name="status_bar_weather_font_thin">Thin</string>
-    <string name="status_bar_weather_font_thin_italic">Thin Italic</string>
-    <string name="status_bar_weather_font_condensed">Condensed</string>
-    <string name="status_bar_weather_font_condensed_italic">Condensed Italic</string>
-    <string name="status_bar_weather_font_condensed_bold">Condensed Bold</string>
-    <string name="status_bar_weather_font_condensed_bold_italic">Condensed Bold Italic</string>
-    <string name="status_bar_weather_font_medium">Medium</string>
-    <string name="status_bar_weather_font_medium_italic">Medium Italic</string>
+    <string name="status_bar_weather_font_italic">Kursiv</string>
+    <string name="status_bar_weather_font_bold">Fett</string>
+    <string name="status_bar_weather_font_bold_italic">Fett-Kursiv</string>
+    <string name="status_bar_weather_font_light">Leicht</string>
+    <string name="status_bar_weather_font_light_italic">Leicht-Kursiv</string>
+    <string name="status_bar_weather_font_thin">Dünn</string>
+    <string name="status_bar_weather_font_thin_italic">Dünn-Kursiv</string>
+    <string name="status_bar_weather_font_condensed">Schmal</string>
+    <string name="status_bar_weather_font_condensed_italic">Schmal-Kursiv</string>
+    <string name="status_bar_weather_font_condensed_bold">Schmal-Fett</string>
+    <string name="status_bar_weather_font_condensed_bold_italic">Schmal-Fett-Kursiv</string>
+    <string name="status_bar_weather_font_medium">Mittelfett</string>
+    <string name="status_bar_weather_font_medium_italic">Mittelfett-Kursiv</string>
 
     <!-- Headphones icon switch -->
-    <string name="show_headset_icon_title">Headset Symbol</string>
-    <string name="show_headset_icon_summary">Shows icon when headsets are connected.</string>
+    <string name="show_headset_icon_title">Kopfhörer-Symbol</string>
+    <string name="show_headset_icon_summary">Zeige Symbol, wenn ein Kopfhörer angeschlossen ist.</string>
 
     <!-- Notification color settings -->
-    <string name="notification_color_settings_title">Notification colors</string>
-    <string name="notification_media_bg_mode_title">Colorize the media background</string>
-    <string name="notification_app_icon_bg_mode_title">Colorize the app icon background</string>
-    <string name="notification_app_icon_color_mode_title">Colorize app icon</string>
-    <string name="notification_bg_guts_color_title">Background on longpress</string>
-    <string name="notification_app_icon_bg_color_title">App icon background</string>
-    <string name="notification_color_mode_never_title">Never</string>
-    <string name="notification_icon_color_mode_greyscale_title">If the icon is an greyscale icon</string>
-    <string name="notification_bg_color_mode_no_color_title">If the notification doesn\`t include an own color</string>
+    <string name="notification_color_settings_title">Benachrichtigungsfarben</string>
+    <string name="notification_media_bg_mode_title">Medienhintergrund einfärben</string>
+    <string name="notification_app_icon_bg_mode_title">App-Symbol-Hintergrund einfärben</string>
+    <string name="notification_app_icon_color_mode_title">App-Symbol einfärben</string>
+    <string name="notification_bg_guts_color_title">Hintergrund bei langer Berührung</string>
+    <string name="notification_app_icon_bg_color_title">App-Symbol einfärben</string>
+    <string name="notification_color_mode_never_title">Niemals</string>
+    <string name="notification_icon_color_mode_greyscale_title">Wenn es ein Graustufen-Symbol ist</string>
+    <string name="notification_bg_color_mode_no_color_title">Wenn die Benachrichtigung keine eigene Farbe beinhaltet</string>
     <string name="notification_color_mode_always_title">Immer</string>
 
     <!-- Three-fingers-swipe to screenshot -->
@@ -1174,12 +1174,12 @@
     <string name="three_finger_gesture_summary">Wische mit drei Fingern, um einen Screenshot zu machen</string>
 
     <!-- Scrolling Cache -->
-    <string name="pref_scrollingcache_title">Scroll Cache</string>
-    <string name="pref_scrollingcache_summary">Scrolling cache may improve scrolling performance at the cost of memory</string>
-    <string name="pref_scrollingcache_force_enable">Force enable</string>
-    <string name="pref_scrollingcache_default_enable">Default enable</string>
-    <string name="pref_scrollingcache_default_disable">Default disable</string>
-    <string name="pref_scrollingcache_force_disable">Force disable</string>
+    <string name="pref_scrollingcache_title">Scroll-Cache</string>
+    <string name="pref_scrollingcache_summary">Der Scroll-Cache kann die Scroll-Performance verbessern, verbraucht aber Arbeitsspeicher</string>
+    <string name="pref_scrollingcache_force_enable">Immer aktivieren</string>
+    <string name="pref_scrollingcache_default_enable">Standardmäßig aktivieren</string>
+    <string name="pref_scrollingcache_default_disable">Standardmäßig deaktivieren</string>
+    <string name="pref_scrollingcache_force_disable">Immer deaktivieren</string>
 
     <!-- Lockscreen wallpaper -->
     <string name="lockscreen_wallpaper_title">Hintergrundbild</string>
@@ -1189,32 +1189,32 @@
     <string name="reset_lockscreen_wallpaper">Setze auf Standart zurück</string>
 
     <!-- QS Tiles Columns -->
-    <string name="qs_num_columns_title">Number of tiles per row</string>
-    <string name="qs_num_columns_showing">%1$s tiles per row showing</string>
+    <string name="qs_num_columns_title">Anzahl Kacheln pro Reihe</string>
+    <string name="qs_num_columns_showing">Es werden %1$s Kacheln pro Reihe angezeigt</string>
 
     <!-- Whether the keyguard will directly pass to gesture entry -->
-    <string name="lock_directly_show_gesture">Directly show gesture </string>
+    <string name="lock_directly_show_gesture">Geste direkt zeigen</string>
 
     <!-- Time-context headers in notification header -->
-    <string name="contextual_title">Contextual headers</string>
-    <string name="status_bar_custom_header_title">Custom header image</string>
-    <string name="status_bar_custom_header_summary">Enable notification panel header image</string>
-    <string name="status_bar_custom_header_default_title">Select your images</string>
+    <string name="contextual_title">Kontextabhängige Kopfelemente</string>
+    <string name="status_bar_custom_header_title">Benutzerspezifisches Kopfbild</string>
+    <string name="status_bar_custom_header_summary">Kopfbild in Benachrichtigungsfeld einschalten</string>
+    <string name="status_bar_custom_header_default_title">Wählen Sie Ihre Bilder</string>
     <string name="custom_header_image_0">Standard</string>
     <string name="custom_header_image_1">Modern</string>
     <string name="custom_header_image_2">Poly HD</string>
 
     <!-- Device policy override -->
-    <string name="device_policy_override_title">Device policy override</string>
-    <string name="device_policy_override_summary">Allow apps to force secure lock screen and override profile settings</string>
+    <string name="device_policy_override_title">Geräterichtlinien überschreiben</string>
+    <string name="device_policy_override_summary">Apps erlauben, den sicheren Sperrbildschirm zu erzwingen und Profileinstellungen zu überschreiben</string>
 
     <!-- Chamber of Secrets -->
     <string name="chamber_title">Kammer der Geheimnisse</string>
     <string name="chamber_toast">Die Kammer der Geheimnisse hat sich geöffnet</string>
 
     <!-- Expand volume panel -->
-    <string name="volume_panel_expanded_title">Expand volume panel</string>
-    <string name="volume_panel_expanded_summary">Show volume panel in expanded mode by default</string>
+    <string name="volume_panel_expanded_title">Lautstärke-Bedienfeld erweitern</string>
+    <string name="volume_panel_expanded_summary">Zeige das Lautstärke-Bedienfeld standardmäßig im erweiterten Modus an</string>
 
     <!-- SlimSizer  -->
     <string name="listsystem">Liste</string>
@@ -1243,9 +1243,9 @@
     <string name="doze_notification_color_invert_summary_on">Umgebende Bildschirmbenachrichtigungen werden invertiert dargestellt. Bei hellem/stock Theme verwenden.</string>
 
     <!-- On-The-Go -->
-    <string name="power_menu_onthego_title">On-The-Go Mode</string>
+    <string name="power_menu_onthego_title">On-The-Go Modus</string>
     <string name="onthego_alpha_title">On-The-Go Alpha</string>
-    <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay.</string>
+    <string name="onthego_alpha_summary">Alpha-Wert (Transparenz) des On-The-Go-Overlays.</string>
 
     <!-- Lockscreen see through -->
     <string name="lockscreen_see_through_title">Sperrbildschirm unscharf</string>
@@ -1253,37 +1253,37 @@
     <string name="lockscreen_blur_radius">Stärke des Unschärfe-Effekts</string>
 
     <!-- Status Bar Activity Indicators -->
-    <string name="status_bar_network_activity_title">Activity indicators</string>
-    <string name="status_bar_network_activity_summary">Show indicators in signal bars</string>
+    <string name="status_bar_network_activity_title">Activitätsanzeigen</string>
+    <string name="status_bar_network_activity_summary">Anzeigen in Hinweisbalken einblenden</string>
 
     <!-- Media art -->
-    <string name="media_art_title">Media cover art</string>
-    <string name="media_art_summary">Enable media cover art on the lockscreen</string>
+    <string name="media_art_title">Medien-Covergrafik</string>
+    <string name="media_art_summary">Covergrafiken auf dem Sperrbildschirm anzeigen</string>
 
     <!-- Heads up -->
-    <string name="heads_up_title">Heads up notification</string>
-    <string name="heads_up_global_switch_title">Heads up notifications mode</string>
-    <string name="heads_up_global_switch_summary_disabled">Heads up notifications are disabled</string>
-    <string name="heads_up_global_switch_summary_perapp">Heads up notifications are en-/disabled on a per app basis</string>
-    <string name="heads_up_global_switch_summary_forced">Heads up notifications are force enabled for all apps</string>
-    <string name="heads_up_global_switch_disabled">Never show heads up notifications</string>
-    <string name="heads_up_global_switch_perapp">Show heads up notifications on a per app basis</string>
-    <string name="heads_up_global_switch_forced">Always show heads up notifications</string>
-    <string name="app_notification_enable_heads_up_title">Show heads up</string>
-    <string name="app_notification_enable_heads_up_summary">Show notifications from this app as heads up</string>
-    <string name="app_notification_enable_heads_up_global_disabled_summary">Heads up are currently globally disabled in notification settings</string>
-    <string name="app_notification_enable_heads_up_global_forced_summary">Heads up are currently globally enabled in notification settings</string>
-    <string name="heads_up_snooze_title">Snooze timer</string>
-    <string name="heads_up_time_out_title">Time out</string>
+    <string name="heads_up_title">Blickfeld-Benachrichtigungen</string>
+    <string name="heads_up_global_switch_title">Blickfeld-Benachrichtigungen-Modus</string>
+    <string name="heads_up_global_switch_summary_disabled">Blickfeld-Benachrichtigungen sind deaktiviert</string>
+    <string name="heads_up_global_switch_summary_perapp">Blickfeld-Benachrichtigungen sind je App individuell (de)aktiviert</string>
+    <string name="heads_up_global_switch_summary_forced">Blickfeld-Benachrichtigungen sind zwingend für alle Apps aktiviert</string>
+    <string name="heads_up_global_switch_disabled">Blickfeld-Benachrichtigungen niemals anzeigen</string>
+    <string name="heads_up_global_switch_perapp">Blickfeld-Benachrichtigungen je App individuell einstellen</string>
+    <string name="heads_up_global_switch_forced">Blickfeld-Benachrichtigungen immer anzeigen</string>
+    <string name="app_notification_enable_heads_up_title">Anzeige von Blickfeld-Benachrichtigungen</string>
+    <string name="app_notification_enable_heads_up_summary">Zeige Benachrichtigungen dieser App als Blickfeld-Benachrichtigungen</string>
+    <string name="app_notification_enable_heads_up_global_disabled_summary">Blickfeld-Benachrichtigungen sind momentan generell deaktiviert in den Benachrichtigungseinstellungen</string>
+    <string name="app_notification_enable_heads_up_global_forced_summary">Blickfeld-Benachrichtigungen sind momentan generell aktiviert in den Benachrichtigungseinstellungen</string>
+    <string name="heads_up_snooze_title">Schlummerfunktion</string>
+    <string name="heads_up_time_out_title">Zeitlimit</string>
 
     <!-- Heads up touch outside -->
-    <string name="heads_up_touch_outside_title">Touch outside behavior</string>
-    <string name="heads_up_touch_outside_summary_enabled">Hide heads up on touch outside and on home button press</string>
-    <string name="heads_up_touch_outside_summary_disabled">Do not hide heads up on touch outside or on home button press</string>
+    <string name="heads_up_touch_outside_title">Verhalten bei Berührung außerhalb</string>
+    <string name="heads_up_touch_outside_summary_enabled">Bei Berührung außerhalb und beim Drücken des Home-Knopfes Benachrichtigungen ausblenden</string>
+    <string name="heads_up_touch_outside_summary_disabled">Bei Berührung außerhalb oder beim Drücken des Home-Knopfes Benachrichtigungen nicht ausblenden</string>
 
     <!-- Allow fake signature checkbox in developer settings -->
-    <string name="allow_signature_fake">Allow signature spoofing</string>
-    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app</string>
-    <string name="allow_signature_fake_warning">Allowing apps to bypass security systems can lead to serious security and privacy problems! Check that only benign apps use the corresponding permission when this is active.</string>
+    <string name="allow_signature_fake">Erlaube Signatur-Spoofing</string>
+    <string name="allow_signature_fake_summary">Erlaube Apps, Sicherheitssysteme zu umgehen, indem vorgegeben wird, eine andere App zu sein</string>
+    <string name="allow_signature_fake_warning">Die Erlaubnis zum Umgehen von Sicherheitssystemen kann zu ernsten Sicherheits- und Privatsphäre-Problemen führen! Stellen Sie sicher, dass nur gutartige Apps diese Erlaubnis ausnutzen, wenn diese Option aktiviert ist.</string>
 
 </resources>
